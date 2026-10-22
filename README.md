@@ -1,1 +1,1 @@
-# ResMon
+# Resource monitor and throttler 
